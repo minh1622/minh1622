@@ -2,7 +2,7 @@
 
 ## Something about me!!
 
-- 🏫 I a student at: [Ha Noi University of Science and Technology][hust]!
+- 🏫 I’m a student at: [Ha Noi University of Science and Technology][hust]!
 - 👀 I’m interested in Embedded Software
 - 🌱 I’m currently learning Electronics and Telecommunication
 
