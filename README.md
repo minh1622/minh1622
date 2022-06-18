@@ -5,6 +5,7 @@
 - 🏫 I’m a student at: [Ha Noi University of Science and Technology][hust]!
 - 👀 I’m interested in Embedded Software
 - 🌱 I’m currently learning Electronics and Telecommunication
+- 🧰 Working at Viettel High Tech - Embedded and Software Application
 
 ### Connect with me:
 
