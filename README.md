@@ -1,5 +1,7 @@
 ### Hi there, I'm Minh 👋
 
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=minhnv17&show_icons=true">
+
 ## Something about me!!
 
 - 🏫 I’m a student at: [Ha Noi University of Science and Technology][hust]!
